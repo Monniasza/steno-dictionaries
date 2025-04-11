@@ -1,6 +1,7 @@
 {
 "#": "{*+}",
 "#*": "{*}",
+"STKPWHR-FRPBLGTS": "{#Alt_L(F4)}",
 "STPH-R": "{#Left}{^}",
 "STPH-RB": "{#Control_L(Left)}{^}",
 "STPH-P": "{#Up}{^}",
@@ -19,6 +20,5 @@
 "R*R": "{#shift(Return)}{^}",
 "R-R": "{#Return}{^}",
 "R-RL": "{^~|\n^}",
-"*UPD": "{*<}",
-"-FRPBLGTS": "{#Alt_L(F4)}"
+"*UPD": "{*<}"
 }

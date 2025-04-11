@@ -19,8 +19,8 @@
 "HRO*ER": "{>}",
 "HRO*ERS": "{MODE:LOWER}",
 "HRO*ERD": "{*>}",
-"R*EFTS": "{MODE:RESET_SPACE}",
-"R*EFTSDZ": "{MODE:RESET}",
-"R*EFDZ": "{MODE:RESET_CASE}",
+"R*EFP": "{MODE:RESET_SPACE}",
+"R*EFTS": "{MODE:RESET}",
+"R*EBG": "{MODE:RESET_CASE}",
 "AFPS": "{*?}"
 }
